@@ -1,0 +1,9 @@
+/* frontend/src/index.css */
+
+/* This file can be kept for any truly global, custom overrides if needed later, 
+   but for now, it should be clean to let MUI take full control. */
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
